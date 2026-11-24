@@ -24,14 +24,14 @@
 
 **Objectif :** comprendre le jeu, le code de départ et les consignes avant de commencer les développements.
 
-- [ ] Lire entièrement le sujet de la SAÉ.
-- [ ] Comprendre les règles du jeu de Grundy.
-- [ ] Comprendre les notions de position gagnante et de position perdante.
+- [x] Lire entièrement le sujet de la SAÉ.
+- [x] Comprendre les règles du jeu de Grundy.
+- [x] Comprendre les notions de position gagnante et de position perdante.
 - [ ] Comprendre le rôle de `playToWin()`.
 - [ ] Comprendre le fonctionnement récursif de `isConfigALosingOne()`.
 - [ ] Récupérer et étudier `GrundyRecBasic.java`.
-- [ ] Tester le programme fourni.
-- [ ] Créer et organiser le projet Java.
+- [x] Tester le programme fourni.
+- [x] Créer et organiser le projet Java.
 - [ ] Répartir les tâches si le projet est réalisé en binôme.
 
 **Livrable / résultat attendu :** code de départ compris et environnement de travail prêt.
