@@ -9,8 +9,8 @@
 
 ## Vue d'ensemble
 
-- [ ] Phase 1 – Préparation et compréhension du sujet
-- [ ] Phase 2 – Version 0 : algorithme brut
+- [x] Phase 1 – Préparation et compréhension du sujet
+- [x] Phase 2 – Version 0 : algorithme brut
 - [ ] Phase 3 – Version 1 : mémorisation des positions perdantes
 - [ ] Phase 4 – Version 2 : mémorisation des positions gagnantes et perdantes
 - [ ] Phase 5 – Version 3 : suppression des tas perdants
