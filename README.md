@@ -1,4 +1,3 @@
-# Projet-SAE1.02-jeu-de-grundy
 # Jeu de Grundy – SAÉ S1.02
 
 **Comparaison d'approches algorithmiques – BUT Informatique**
